@@ -1,2 +1,2 @@
-# omi
+# Omi
 own choice
